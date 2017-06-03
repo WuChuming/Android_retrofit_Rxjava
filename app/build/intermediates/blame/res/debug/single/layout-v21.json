@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/shawn/AndroidStudioProjects/MyFirstApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/shawn/.android/build-cache/2c5921a58f11e88cad151876a50ac0441f14d1d6/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/shawn/AndroidStudioProjects/MyFirstApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/shawn/.android/build-cache/2c5921a58f11e88cad151876a50ac0441f14d1d6/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/shawn/AndroidStudioProjects/MyFirstApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/shawn/.android/build-cache/2c5921a58f11e88cad151876a50ac0441f14d1d6/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/shawn/AndroidStudioProjects/MyFirstApplication/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/shawn/.android/build-cache/2c5921a58f11e88cad151876a50ac0441f14d1d6/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

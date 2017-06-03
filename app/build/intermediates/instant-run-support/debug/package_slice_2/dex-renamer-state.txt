@@ -1,0 +1,4 @@
+#Thu Jun 01 10:09:15 CST 2017
+base.0=/Users/shawn/AndroidStudioProjects/MyFirstApplication/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2
+renamed.0=classes.dex
+file.0=/Users/shawn/AndroidStudioProjects/MyFirstApplication/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex
